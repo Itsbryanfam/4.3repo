@@ -1,18 +1,58 @@
-# Wawawewa
+# Hello World Code
 
-**File created on the `borat` branch in `itsbryanfam/4.3repo`**
+**Updated on the `borat` branch in `itsbryanfam/4.3repo`**
 
-## Borat Vibes
+Wa wa wee wa! Here's some classic Hello World code examples for your viewing pleasure.
 
-Wa wa wee wa! This is some new content for the file.
+## Python
 
-### What's inside:
-- A fun markdown file
-- Reference to Borat
-- Created via connected GitHub tools
+```python
+print("Hello, World!")
+```
 
-> "Very nice!"
+## JavaScript
+
+```javascript
+console.log("Hello, World!");
+```
+
+## Java
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+
+## C
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+
+## HTML
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello World</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+</body>
+</html>
+```
+
+> "Very nice! Hello World is the best!" - Borat
 
 ---
 
-*Generated on 2026-05-18*
+*Updated via GitHub connected tools on 2026-05-18*
